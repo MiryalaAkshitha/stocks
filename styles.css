@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    background-color:rgb(224,215,250)
+}
+label{
+    display:block;
+    padding-bottom:2rem;
+}
+div{
+    padding-top: 2rem;
+    font-size: larger;
+}
